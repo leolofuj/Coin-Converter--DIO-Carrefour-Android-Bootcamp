@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coin Converter</string>
+    <string name="btn_to_convert">Converter</string>
+    <string name="btn_to_save">Salvar</string>
+</resources>
